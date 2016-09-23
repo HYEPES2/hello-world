@@ -1,2 +1,4 @@
 # hello-world
-Mi primer repositorio
+
+Hola a todos
+Espero que este primer repositorio sea el inicio de grandes proyectos.
